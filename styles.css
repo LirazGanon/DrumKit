@@ -84,17 +84,17 @@ background-image: url("images/snare.png");
 
 @media (max-width: 1028px) {
 h1{
-  margin-top: 200px;
-  font-size: 7rem;
+
+  font-size: 3rem;
 }
 .drum{
-  width: 270px;
-  height: 270px;
-  font-size: 9rem;
+  width: 130px;
+  height: 130px;
+  font-size: 2rem;
 }
 
 footer {
-font-size: 2rem;
+font-size: 0.7rem;
 
 }
 
